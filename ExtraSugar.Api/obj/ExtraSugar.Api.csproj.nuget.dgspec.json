@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Api\\ExtraSugar.Api.csproj": {}
+    "C:\\Projects\\ExtraSugar\\ExtraSugar.Api\\ExtraSugar.Api.csproj": {}
   },
   "projects": {
-    "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Api\\ExtraSugar.Api.csproj": {
+    "C:\\Projects\\ExtraSugar\\ExtraSugar.Api\\ExtraSugar.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Api\\ExtraSugar.Api.csproj",
+        "projectUniqueName": "C:\\Projects\\ExtraSugar\\ExtraSugar.Api\\ExtraSugar.Api.csproj",
         "projectName": "ExtraSugar.Api",
-        "projectPath": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Api\\ExtraSugar.Api.csproj",
-        "packagesPath": "C:\\Users\\96653\\.nuget\\packages\\",
-        "outputPath": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Api\\obj\\",
+        "projectPath": "C:\\Projects\\ExtraSugar\\ExtraSugar.Api\\ExtraSugar.Api.csproj",
+        "packagesPath": "C:\\Users\\tarik\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\ExtraSugar\\ExtraSugar.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\96653\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
@@ -30,23 +31,24 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Projects\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Application\\ExtraSugar.Application.csproj": {
-                "projectPath": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Application\\ExtraSugar.Application.csproj"
+              "C:\\Projects\\ExtraSugar\\ExtraSugar.Application\\ExtraSugar.Application.csproj": {
+                "projectPath": "C:\\Projects\\ExtraSugar\\ExtraSugar.Application\\ExtraSugar.Application.csproj"
               },
-              "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Contracts\\ExtraSugar.Contracts.csproj": {
-                "projectPath": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Contracts\\ExtraSugar.Contracts.csproj"
+              "C:\\Projects\\ExtraSugar\\ExtraSugar.Contracts\\ExtraSugar.Contracts.csproj": {
+                "projectPath": "C:\\Projects\\ExtraSugar\\ExtraSugar.Contracts\\ExtraSugar.Contracts.csproj"
               },
-              "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Infrastructure\\ExtraSugar.Infrastructure.csproj": {
-                "projectPath": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Infrastructure\\ExtraSugar.Infrastructure.csproj"
+              "C:\\Projects\\ExtraSugar\\ExtraSugar.Infrastructure\\ExtraSugar.Infrastructure.csproj": {
+                "projectPath": "C:\\Projects\\ExtraSugar\\ExtraSugar.Infrastructure\\ExtraSugar.Infrastructure.csproj"
               }
             }
           }
@@ -78,26 +80,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Application\\ExtraSugar.Application.csproj": {
+    "C:\\Projects\\ExtraSugar\\ExtraSugar.Application\\ExtraSugar.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Application\\ExtraSugar.Application.csproj",
+        "projectUniqueName": "C:\\Projects\\ExtraSugar\\ExtraSugar.Application\\ExtraSugar.Application.csproj",
         "projectName": "ExtraSugar.Application",
-        "projectPath": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Application\\ExtraSugar.Application.csproj",
-        "packagesPath": "C:\\Users\\96653\\.nuget\\packages\\",
-        "outputPath": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Application\\obj\\",
+        "projectPath": "C:\\Projects\\ExtraSugar\\ExtraSugar.Application\\ExtraSugar.Application.csproj",
+        "packagesPath": "C:\\Users\\tarik\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\ExtraSugar\\ExtraSugar.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\96653\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
@@ -108,17 +111,18 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Projects\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Domain\\ExtraSugar.Domain.csproj": {
-                "projectPath": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Domain\\ExtraSugar.Domain.csproj"
+              "C:\\Projects\\ExtraSugar\\ExtraSugar.Domain\\ExtraSugar.Domain.csproj": {
+                "projectPath": "C:\\Projects\\ExtraSugar\\ExtraSugar.Domain\\ExtraSugar.Domain.csproj"
               }
             }
           }
@@ -132,6 +136,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -147,26 +157,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Contracts\\ExtraSugar.Contracts.csproj": {
+    "C:\\Projects\\ExtraSugar\\ExtraSugar.Contracts\\ExtraSugar.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Contracts\\ExtraSugar.Contracts.csproj",
+        "projectUniqueName": "C:\\Projects\\ExtraSugar\\ExtraSugar.Contracts\\ExtraSugar.Contracts.csproj",
         "projectName": "ExtraSugar.Contracts",
-        "projectPath": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Contracts\\ExtraSugar.Contracts.csproj",
-        "packagesPath": "C:\\Users\\96653\\.nuget\\packages\\",
-        "outputPath": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Contracts\\obj\\",
+        "projectPath": "C:\\Projects\\ExtraSugar\\ExtraSugar.Contracts\\ExtraSugar.Contracts.csproj",
+        "packagesPath": "C:\\Users\\tarik\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\ExtraSugar\\ExtraSugar.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\96653\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
@@ -177,9 +188,10 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Projects\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -212,26 +224,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Domain\\ExtraSugar.Domain.csproj": {
+    "C:\\Projects\\ExtraSugar\\ExtraSugar.Domain\\ExtraSugar.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Domain\\ExtraSugar.Domain.csproj",
+        "projectUniqueName": "C:\\Projects\\ExtraSugar\\ExtraSugar.Domain\\ExtraSugar.Domain.csproj",
         "projectName": "ExtraSugar.Domain",
-        "projectPath": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Domain\\ExtraSugar.Domain.csproj",
-        "packagesPath": "C:\\Users\\96653\\.nuget\\packages\\",
-        "outputPath": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Domain\\obj\\",
+        "projectPath": "C:\\Projects\\ExtraSugar\\ExtraSugar.Domain\\ExtraSugar.Domain.csproj",
+        "packagesPath": "C:\\Users\\tarik\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\ExtraSugar\\ExtraSugar.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\96653\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
@@ -242,9 +255,10 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Projects\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -277,26 +291,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Infrastructure\\ExtraSugar.Infrastructure.csproj": {
+    "C:\\Projects\\ExtraSugar\\ExtraSugar.Infrastructure\\ExtraSugar.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Infrastructure\\ExtraSugar.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Projects\\ExtraSugar\\ExtraSugar.Infrastructure\\ExtraSugar.Infrastructure.csproj",
         "projectName": "ExtraSugar.Infrastructure",
-        "projectPath": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Infrastructure\\ExtraSugar.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\96653\\.nuget\\packages\\",
-        "outputPath": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Infrastructure\\obj\\",
+        "projectPath": "C:\\Projects\\ExtraSugar\\ExtraSugar.Infrastructure\\ExtraSugar.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\tarik\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\ExtraSugar\\ExtraSugar.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\96653\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
@@ -307,17 +322,18 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Projects\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Application\\ExtraSugar.Application.csproj": {
-                "projectPath": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Application\\ExtraSugar.Application.csproj"
+              "C:\\Projects\\ExtraSugar\\ExtraSugar.Application\\ExtraSugar.Application.csproj": {
+                "projectPath": "C:\\Projects\\ExtraSugar\\ExtraSugar.Application\\ExtraSugar.Application.csproj"
               }
             }
           }
@@ -346,7 +362,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

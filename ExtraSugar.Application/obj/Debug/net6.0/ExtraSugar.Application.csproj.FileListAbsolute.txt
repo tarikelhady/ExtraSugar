@@ -13,3 +13,18 @@ C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.
 C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Application\bin\Debug\net6.0\ExtraSugar.Domain.dll
 C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Application\bin\Debug\net6.0\ExtraSugar.Domain.pdb
 C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ExtraSugar.Application.csproj.CopyComplete
+C:\Projects\ExtraSugar\ExtraSugar.Application\bin\Debug\net6.0\ExtraSugar.Application.deps.json
+C:\Projects\ExtraSugar\ExtraSugar.Application\bin\Debug\net6.0\ExtraSugar.Application.dll
+C:\Projects\ExtraSugar\ExtraSugar.Application\bin\Debug\net6.0\ref\ExtraSugar.Application.dll
+C:\Projects\ExtraSugar\ExtraSugar.Application\bin\Debug\net6.0\ExtraSugar.Application.pdb
+C:\Projects\ExtraSugar\ExtraSugar.Application\bin\Debug\net6.0\ExtraSugar.Domain.dll
+C:\Projects\ExtraSugar\ExtraSugar.Application\bin\Debug\net6.0\ExtraSugar.Domain.pdb
+C:\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ExtraSugar.Application.csproj.AssemblyReference.cache
+C:\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ExtraSugar.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ExtraSugar.Application.AssemblyInfoInputs.cache
+C:\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ExtraSugar.Application.AssemblyInfo.cs
+C:\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ExtraSugar.Application.csproj.CoreCompileInputs.cache
+C:\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ExtraSugar.Application.csproj.CopyComplete
+C:\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ExtraSugar.Application.dll
+C:\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ref\ExtraSugar.Application.dll
+C:\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ExtraSugar.Application.pdb

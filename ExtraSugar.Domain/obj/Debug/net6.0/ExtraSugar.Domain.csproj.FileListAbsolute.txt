@@ -10,3 +10,15 @@ C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Domain\obj\Debug\net6.0\Ext
 C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Domain\obj\Debug\net6.0\refint\ExtraSugar.Domain.dll
 C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Domain\obj\Debug\net6.0\ExtraSugar.Domain.pdb
 C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Domain\obj\Debug\net6.0\ref\ExtraSugar.Domain.dll
+C:\Projects\ExtraSugar\ExtraSugar.Domain\bin\Debug\net6.0\ExtraSugar.Domain.deps.json
+C:\Projects\ExtraSugar\ExtraSugar.Domain\bin\Debug\net6.0\ExtraSugar.Domain.dll
+C:\Projects\ExtraSugar\ExtraSugar.Domain\bin\Debug\net6.0\ref\ExtraSugar.Domain.dll
+C:\Projects\ExtraSugar\ExtraSugar.Domain\bin\Debug\net6.0\ExtraSugar.Domain.pdb
+C:\Projects\ExtraSugar\ExtraSugar.Domain\obj\Debug\net6.0\ExtraSugar.Domain.csproj.AssemblyReference.cache
+C:\Projects\ExtraSugar\ExtraSugar.Domain\obj\Debug\net6.0\ExtraSugar.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ExtraSugar\ExtraSugar.Domain\obj\Debug\net6.0\ExtraSugar.Domain.AssemblyInfoInputs.cache
+C:\Projects\ExtraSugar\ExtraSugar.Domain\obj\Debug\net6.0\ExtraSugar.Domain.AssemblyInfo.cs
+C:\Projects\ExtraSugar\ExtraSugar.Domain\obj\Debug\net6.0\ExtraSugar.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\ExtraSugar\ExtraSugar.Domain\obj\Debug\net6.0\ExtraSugar.Domain.dll
+C:\Projects\ExtraSugar\ExtraSugar.Domain\obj\Debug\net6.0\ref\ExtraSugar.Domain.dll
+C:\Projects\ExtraSugar\ExtraSugar.Domain\obj\Debug\net6.0\ExtraSugar.Domain.pdb

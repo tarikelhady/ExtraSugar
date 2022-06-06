@@ -10,3 +10,15 @@ C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Contracts\obj\Debug\net6.0\
 C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Contracts\obj\Debug\net6.0\refint\ExtraSugar.Contracts.dll
 C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Contracts\obj\Debug\net6.0\ExtraSugar.Contracts.pdb
 C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Contracts\obj\Debug\net6.0\ref\ExtraSugar.Contracts.dll
+C:\Projects\ExtraSugar\ExtraSugar.Contracts\bin\Debug\net6.0\ExtraSugar.Contracts.deps.json
+C:\Projects\ExtraSugar\ExtraSugar.Contracts\bin\Debug\net6.0\ExtraSugar.Contracts.dll
+C:\Projects\ExtraSugar\ExtraSugar.Contracts\bin\Debug\net6.0\ref\ExtraSugar.Contracts.dll
+C:\Projects\ExtraSugar\ExtraSugar.Contracts\bin\Debug\net6.0\ExtraSugar.Contracts.pdb
+C:\Projects\ExtraSugar\ExtraSugar.Contracts\obj\Debug\net6.0\ExtraSugar.Contracts.csproj.AssemblyReference.cache
+C:\Projects\ExtraSugar\ExtraSugar.Contracts\obj\Debug\net6.0\ExtraSugar.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ExtraSugar\ExtraSugar.Contracts\obj\Debug\net6.0\ExtraSugar.Contracts.AssemblyInfoInputs.cache
+C:\Projects\ExtraSugar\ExtraSugar.Contracts\obj\Debug\net6.0\ExtraSugar.Contracts.AssemblyInfo.cs
+C:\Projects\ExtraSugar\ExtraSugar.Contracts\obj\Debug\net6.0\ExtraSugar.Contracts.csproj.CoreCompileInputs.cache
+C:\Projects\ExtraSugar\ExtraSugar.Contracts\obj\Debug\net6.0\ExtraSugar.Contracts.dll
+C:\Projects\ExtraSugar\ExtraSugar.Contracts\obj\Debug\net6.0\ref\ExtraSugar.Contracts.dll
+C:\Projects\ExtraSugar\ExtraSugar.Contracts\obj\Debug\net6.0\ExtraSugar.Contracts.pdb

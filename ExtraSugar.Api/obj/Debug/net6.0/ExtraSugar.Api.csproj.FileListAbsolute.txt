@@ -28,3 +28,33 @@ C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ExtraS
 C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ExtraSugar.Domain.pdb
 C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ExtraSugar.Infrastructure.dll
 C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ExtraSugar.Infrastructure.pdb
+C:\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\appsettings.json
+C:\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ExtraSugar.Api.exe
+C:\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ExtraSugar.Api.deps.json
+C:\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ExtraSugar.Api.runtimeconfig.json
+C:\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ExtraSugar.Api.dll
+C:\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ref\ExtraSugar.Api.dll
+C:\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ExtraSugar.Api.pdb
+C:\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ExtraSugar.Application.dll
+C:\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ExtraSugar.Contracts.dll
+C:\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ExtraSugar.Domain.dll
+C:\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ExtraSugar.Infrastructure.dll
+C:\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ExtraSugar.Contracts.pdb
+C:\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ExtraSugar.Application.pdb
+C:\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ExtraSugar.Infrastructure.pdb
+C:\Projects\ExtraSugar\ExtraSugar.Api\bin\Debug\net6.0\ExtraSugar.Domain.pdb
+C:\Projects\ExtraSugar\ExtraSugar.Api\obj\Debug\net6.0\ExtraSugar.Api.csproj.AssemblyReference.cache
+C:\Projects\ExtraSugar\ExtraSugar.Api\obj\Debug\net6.0\ExtraSugar.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ExtraSugar\ExtraSugar.Api\obj\Debug\net6.0\ExtraSugar.Api.AssemblyInfoInputs.cache
+C:\Projects\ExtraSugar\ExtraSugar.Api\obj\Debug\net6.0\ExtraSugar.Api.AssemblyInfo.cs
+C:\Projects\ExtraSugar\ExtraSugar.Api\obj\Debug\net6.0\ExtraSugar.Api.csproj.CoreCompileInputs.cache
+C:\Projects\ExtraSugar\ExtraSugar.Api\obj\Debug\net6.0\ExtraSugar.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\ExtraSugar\ExtraSugar.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\ExtraSugar\ExtraSugar.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects\ExtraSugar\ExtraSugar.Api\obj\Debug\net6.0\scopedcss\bundle\ExtraSugar.Api.styles.css
+C:\Projects\ExtraSugar\ExtraSugar.Api\obj\Debug\net6.0\ExtraSugar.Api.csproj.CopyComplete
+C:\Projects\ExtraSugar\ExtraSugar.Api\obj\Debug\net6.0\ExtraSugar.Api.dll
+C:\Projects\ExtraSugar\ExtraSugar.Api\obj\Debug\net6.0\ref\ExtraSugar.Api.dll
+C:\Projects\ExtraSugar\ExtraSugar.Api\obj\Debug\net6.0\ExtraSugar.Api.pdb
+C:\Projects\ExtraSugar\ExtraSugar.Api\obj\Debug\net6.0\ExtraSugar.Api.genruntimeconfig.cache

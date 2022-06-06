@@ -15,3 +15,20 @@ C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Infrastructure\bin\Debug\ne
 C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Infrastructure\bin\Debug\net6.0\ExtraSugar.Application.pdb
 C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Infrastructure\bin\Debug\net6.0\ExtraSugar.Domain.pdb
 C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ExtraSugar.Infrastructure.csproj.CopyComplete
+C:\Projects\ExtraSugar\ExtraSugar.Infrastructure\bin\Debug\net6.0\ExtraSugar.Infrastructure.deps.json
+C:\Projects\ExtraSugar\ExtraSugar.Infrastructure\bin\Debug\net6.0\ExtraSugar.Infrastructure.dll
+C:\Projects\ExtraSugar\ExtraSugar.Infrastructure\bin\Debug\net6.0\ref\ExtraSugar.Infrastructure.dll
+C:\Projects\ExtraSugar\ExtraSugar.Infrastructure\bin\Debug\net6.0\ExtraSugar.Infrastructure.pdb
+C:\Projects\ExtraSugar\ExtraSugar.Infrastructure\bin\Debug\net6.0\ExtraSugar.Application.dll
+C:\Projects\ExtraSugar\ExtraSugar.Infrastructure\bin\Debug\net6.0\ExtraSugar.Domain.dll
+C:\Projects\ExtraSugar\ExtraSugar.Infrastructure\bin\Debug\net6.0\ExtraSugar.Application.pdb
+C:\Projects\ExtraSugar\ExtraSugar.Infrastructure\bin\Debug\net6.0\ExtraSugar.Domain.pdb
+C:\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ExtraSugar.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ExtraSugar.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ExtraSugar.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ExtraSugar.Infrastructure.AssemblyInfo.cs
+C:\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ExtraSugar.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ExtraSugar.Infrastructure.csproj.CopyComplete
+C:\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ExtraSugar.Infrastructure.dll
+C:\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ref\ExtraSugar.Infrastructure.dll
+C:\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ExtraSugar.Infrastructure.pdb

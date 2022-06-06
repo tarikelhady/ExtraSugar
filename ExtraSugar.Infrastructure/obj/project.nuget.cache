@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gPfJhqIUfBE7JydSf503/ve7XLggfkQ3Z39liRWlwS0AEBos3JbMYVMSyEV0AfBj4qmCfwhfwyX+5mieeVrQHg==",
+  "dgSpecHash": "slozlyWCErvCQ99Fpqh+E+2xxvuFO4KFai4bL6UkAkmzGIKXnzXICThA4n/wLgi6VZ4GbOb93WL068K2GYhnJQ==",
   "success": true,
-  "projectFilePath": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Infrastructure\\ExtraSugar.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Projects\\ExtraSugar\\ExtraSugar.Infrastructure\\ExtraSugar.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tarik\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
