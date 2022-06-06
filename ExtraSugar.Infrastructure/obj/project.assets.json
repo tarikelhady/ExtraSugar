@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "ExtraSugar.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ExtraSugar.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ExtraSugar.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExtraSugar.Application.dll": {}
+        }
+      },
+      "ExtraSugar.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ExtraSugar.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExtraSugar.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ExtraSugar.Application/1.0.0": {
+      "type": "project",
+      "path": "../ExtraSugar.Application/ExtraSugar.Application.csproj",
+      "msbuildProject": "../ExtraSugar.Application/ExtraSugar.Application.csproj"
+    },
+    "ExtraSugar.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ExtraSugar.Domain/ExtraSugar.Domain.csproj",
+      "msbuildProject": "../ExtraSugar.Domain/ExtraSugar.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "ExtraSugar.Application >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\96653\\.nuget\\packages\\": {},
@@ -47,7 +84,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Application\\ExtraSugar.Application.csproj": {
+              "projectPath": "C:\\Drive D\\Programing\\Projects\\ExtraSugar\\ExtraSugar.Application\\ExtraSugar.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

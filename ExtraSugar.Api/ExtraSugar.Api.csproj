@@ -7,12 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ExtraSugar.Contracts\ExtraSugar.Contracts.csproj" />
     <ProjectReference Include="..\ExtraSugar.Application\ExtraSugar.Application.csproj" />
+    <ProjectReference Include="..\ExtraSugar.Infrastructure\ExtraSugar.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

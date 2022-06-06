@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "ExtraSugar.Application/1.0.0": {
+        "dependencies": {
+          "ExtraSugar.Domain": "1.0.0"
+        },
         "runtime": {
           "ExtraSugar.Application.dll": {}
+        }
+      },
+      "ExtraSugar.Domain/1.0.0": {
+        "runtime": {
+          "ExtraSugar.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ExtraSugar.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExtraSugar.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
