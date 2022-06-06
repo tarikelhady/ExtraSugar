@@ -1,0 +1,12 @@
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Infrastructure\bin\Debug\net6.0\ExtraSugar.Infrastructure.deps.json
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Infrastructure\bin\Debug\net6.0\ExtraSugar.Infrastructure.dll
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Infrastructure\bin\Debug\net6.0\ExtraSugar.Infrastructure.pdb
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ExtraSugar.Infrastructure.csproj.AssemblyReference.cache
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ExtraSugar.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ExtraSugar.Infrastructure.AssemblyInfoInputs.cache
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ExtraSugar.Infrastructure.AssemblyInfo.cs
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ExtraSugar.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ExtraSugar.Infrastructure.dll
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\refint\ExtraSugar.Infrastructure.dll
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ExtraSugar.Infrastructure.pdb
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Infrastructure\obj\Debug\net6.0\ref\ExtraSugar.Infrastructure.dll

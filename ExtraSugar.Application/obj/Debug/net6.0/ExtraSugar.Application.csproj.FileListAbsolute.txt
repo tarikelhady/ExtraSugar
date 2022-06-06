@@ -1,0 +1,12 @@
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Application\bin\Debug\net6.0\ExtraSugar.Application.deps.json
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Application\bin\Debug\net6.0\ExtraSugar.Application.dll
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Application\bin\Debug\net6.0\ExtraSugar.Application.pdb
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ExtraSugar.Application.csproj.AssemblyReference.cache
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ExtraSugar.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ExtraSugar.Application.AssemblyInfoInputs.cache
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ExtraSugar.Application.AssemblyInfo.cs
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ExtraSugar.Application.csproj.CoreCompileInputs.cache
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ExtraSugar.Application.dll
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\refint\ExtraSugar.Application.dll
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ExtraSugar.Application.pdb
+C:\Drive D\Programing\Projects\ExtraSugar\ExtraSugar.Application\obj\Debug\net6.0\ref\ExtraSugar.Application.dll
